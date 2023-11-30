@@ -2,5 +2,6 @@ ybdb/
 ybdb-terraform-aws/sshkey.pem
 .terraform/
 *.lock.hcl
-*.tfstate
-*.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
