@@ -5,7 +5,7 @@
 
 ### Gitpod
 
-[![Open in Gitpod][gitpod-svg]][gp-main]
+[![Open in Gitpod][logo-gitpod]][gp-main]
 
 
 [logo-gitpod]: https://gitpod.io/button/open-in-gitpod.svg
