@@ -1,0 +1,20 @@
+image: gitpod/workspace-yugabytedb:latest
+
+tasks:
+  - name: ysqlsh    
+    command: ysqlsh
+  - name: ycqlsh
+    command: ycqlsh
+ports:
+  - name: yugabyted-ui
+    description: YugabyteDB UI
+    port: 15433
+    onOpen: ignore
+  - name: yugabyted-master
+    description: YugabyteDB Master UI
+    port: 7000
+    onOpen: ignore
+  - name: yugabyted-tserver
+    description: YugabyteDB Tserver UI
+    port: 9000
+    onOpen: ignore
