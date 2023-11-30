@@ -1,0 +1,3 @@
+[submodule "ybdb-workshop"]
+	path = ybdb-workshop
+	url = git@github.com:yogendra/ybdb-workshop.git
