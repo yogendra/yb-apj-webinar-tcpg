@@ -1,4 +1,6 @@
 # YugabtyeDB - A Turbo-charge PostgreSQL
+[Get Slides Here](https://docs.google.com/presentation/d/e/2PACX-1vTDaI7-G6MH2xMun7tWN7qSNu6uafqCybxo6Tj9XKdN8dB1DZJY_EvUdifhNyXYlCE2wE4EOoBCoUhV/pub?start=true&loop=false&delayms=3000)
+
 ![banner](docs/yugabytedb-a-turbocharged-pg-banner.png)
 
 ## Ecosystem - Application Developer
@@ -6,6 +8,9 @@
 ### Gitpod
 
 [![Open in Gitpod][logo-gitpod]][gp-main]
+
+
+
 
 Minimal configuration for `.gitpod.yml` to use yugabytedb is:
 
