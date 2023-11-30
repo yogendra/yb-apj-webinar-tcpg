@@ -1,1 +1,6 @@
 ybdb/
+ybdb-terraform-aws/sshkey.pem
+.terraform/
+*.lock.hcl
+*.tfstate
+*.tfstate.backup
