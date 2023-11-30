@@ -1,3 +1,7 @@
 [submodule "ybdb-workshop"]
 	path = ybdb-workshop
 	url = git@github.com:yogendra/ybdb-workshop.git
+[submodule "ybdb-vault"]
+	path = ybdb-vault
+	url = git@github.com:yogendra/vault-transform-demo.git
+	branch = yb
